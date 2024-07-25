@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlirezaBHD2
 - 👀 I’m interested in learning, teamwork and gain experience
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning cybersecurity
 - 📫 How to reach me Email: alirezabhd2@gmail.com
 
 <!---
