@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">:: Learning since 2018<br>:: I'm currently learning git<br>:: interested in learning, teamwork and gain experience</p>
+<p align="left">:: Learning since 2018<br>:: I'm currently learning ASP.NET Core<br>:: interested in learning, teamwork and gain experience</p>
 
 
 
@@ -35,7 +35,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="47" alt="fastapi logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="47" alt="dotnetcore logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="47" alt="docker logo"  />
   <img width="14" />
