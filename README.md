@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Alireza Bahmanzade and I'm a Developer</p>
+<p align="left">I'm Alireza Bahmanzade and I'm a Software Developer</p>
 
 ###
 
