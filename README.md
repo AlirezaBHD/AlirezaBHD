@@ -17,7 +17,7 @@
   <a href="alirezabhd2@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="50" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/alireza_bhd8" target="_blank">
+  <a href="https://t.me/alireza_bhd0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="68" height="50" alt="telegram logo"  />
   </a>
 </div>
